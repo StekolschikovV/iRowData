@@ -1,0 +1,53 @@
+[
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "panelId",
+    "fieldType": "typeInt",
+    "label": "panelId"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "exportDate",
+    "fieldType": "typeString",
+    "label": "exportDate"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "d1",
+    "fieldType": "typeString",
+    "label": "Номенклатура код"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "d1",
+    "fieldType": "typeString",
+    "label": "Номенклатура"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "d1",
+    "fieldType": "typeString",
+    "label": "Магазин"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "m1",
+    "fieldType": "typeNum",
+    "label": "Рейтинг продаж по компании",
+    "format": "###0"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "m1",
+    "fieldType": "typeNum",
+    "label": "%OOS",
+    "format": "# ##0,00%"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "m1",
+    "fieldType": "typeNum",
+    "label": "Упущенная прибыль, тыс.руб.",
+    "format": "# ##0,00"
+  }
+]
