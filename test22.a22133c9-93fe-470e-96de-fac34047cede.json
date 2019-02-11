@@ -19,13 +19,13 @@
   },
   {
     "$": "CsvFieldDesriptor",
-    "columnId": "d1",
+    "columnId": "d2",
     "fieldType": "typeString",
     "label": "Номенклатура"
   },
   {
     "$": "CsvFieldDesriptor",
-    "columnId": "d1",
+    "columnId": "d3",
     "fieldType": "typeString",
     "label": "Магазин"
   },
@@ -38,14 +38,14 @@
   },
   {
     "$": "CsvFieldDesriptor",
-    "columnId": "m1",
+    "columnId": "m2",
     "fieldType": "typeNum",
     "label": "%OOS",
     "format": "# ##0,00%"
   },
   {
     "$": "CsvFieldDesriptor",
-    "columnId": "m1",
+    "columnId": "m3",
     "fieldType": "typeNum",
     "label": "Упущенная прибыль, тыс.руб.",
     "format": "# ##0,00"
