@@ -1,0 +1,81 @@
+[
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "panelId",
+    "fieldType": "typeInt",
+    "label": "panelId"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "exportDate",
+    "fieldType": "typeString",
+    "label": "exportDate"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "d1",
+    "fieldType": "typeString",
+    "label": "Номенклатура код"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "d2",
+    "fieldType": "typeString",
+    "label": "Номенклатура"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "d3",
+    "fieldType": "typeString",
+    "label": "Магазин"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "m1",
+    "fieldType": "typeNum",
+    "label": "Кол Проданого товара, шт",
+    "format": "# ##0,000"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "m2",
+    "fieldType": "typeNum",
+    "label": "Активных дней",
+    "format": "# ##0"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "m3",
+    "fieldType": "typeNum",
+    "label": "Средняя продажа за день, шт.",
+    "format": "# ##0,000"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "m4",
+    "fieldType": "typeNum",
+    "label": "Остатки на конец периода, шт",
+    "format": "# ##0,000"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "m5",
+    "fieldType": "typeNum",
+    "label": "Дней торговли (прогноз)",
+    "format": "###0,0"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "m6",
+    "fieldType": "typeNum",
+    "label": "Срок годности, дней",
+    "format": "###0"
+  },
+  {
+    "$": "CsvFieldDesriptor",
+    "columnId": "m7",
+    "fieldType": "typeNum",
+    "label": "Остатки на конец периода, тыс.руб.",
+    "format": "# ##0,00"
+  }
+]
